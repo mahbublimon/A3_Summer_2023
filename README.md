@@ -1,6 +1,6 @@
 # Course Title: Cloud Computing | Course Code: CSE472/ CSC472 
 ## Group: A3 (Summer 2023)
-## Project Name <br/>
+## Secure Cloud Network Architecture for Multi-Tier Application <br/>
 
 ## Project Overview
 
@@ -23,18 +23,18 @@ Install all the list of dependencies with the specified version. You can install
 - <b> Overleaf IEEE Conference Paper Template: </b> https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn
 
 ## Installation
-To install <project_name>, follow these steps:
+To install <Secure_Cloud_Network_Architecture_for_Multi-Tier_Application>, follow these steps:
 * __Linux and macOS:__
 `<insatll_command>`
 * __Windows:__
 `<insatll_command>`
 
 ## Contribution
-To contribute to <project_name>, follow these steps:
+To contribute to <Secure_Cloud_Network_Architecture_for_Multi-Tier_Application>, follow these steps:
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name> .`
 3. Make your changes and commit them: `git commit -m '<commit_message>' .`
-4. Push to the origin branch: `git push origin <project_name>/<location>`
+4. Push to the origin branch: `git push origin <Secure_Cloud_Network_Architecture_for_Multi-Tier_Application>/<location>`
 5. Create the pull request.
 
 ## Contributors
