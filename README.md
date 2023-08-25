@@ -42,16 +42,16 @@ To contribute to <Secure_Cloud_Network_Architecture_for_Multi-Tier_Application>,
 ## Contributors
 Thanks to the following people who have contributed to this project: 
 * > https://github.com/mahbublimon
+* > https://github.com/rudritarahman
 * > https://github.com/sufi-an
 * > https://github.com/Protik-Hasan
-* > https://github.com/rudritarahman
 * > https://github.com/Shatabde
 
 ## Contact 
 * > Kazi Mahbub Morshed Limon (2231316@iub.edu.bd)
+* > Rudrita Rahman (2021059@iub.edu.bd)
 * > MD Abu Sauri Sufian (1930839@iub.edu.bd)
 * > MD. Protik Hasan (2022133@iub.edu.bd)
-* > Rudrita Rahman (2021059@iub.edu.bd)
 * > Shatabde Debnath (2020552@iub.edu.bd)
 
 ## License
