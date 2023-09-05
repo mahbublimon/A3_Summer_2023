@@ -1,0 +1,16 @@
+/* Body Styles */
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.navbar-nav .nav-link.active {
+  color: black;
+}
