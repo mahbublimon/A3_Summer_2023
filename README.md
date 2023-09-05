@@ -4,9 +4,9 @@
 
 ## Project Overview
 
-In today's digital era, businesses are increasingly relying on cloud-based solutions to host their applications and services. However, maintaining a robust network architecture and ensuring the data security of these cloud-based multi-tier applications remains a significant challenge. 
+In today's digital era, businesses increasingly rely on cloud-based solutions to host their applications and services. However, maintaining a robust network architecture and ensuring the data security of these cloud-based multi-tier applications remains a significant challenge. 
 
-This project proposes to provide services as a cloud service provider in Bangladesh. In this project, we will focus on developing a network with AWS services for an organization (as per their requirements manually). Other than that, for future work we plan on an automatic service so that organizations and business owners can easily deploy their web server, streaming server, etc. with proper data security and network segmentation.
+This project proposes to provide services as a cloud service provider in Bangladesh. In this project, we will focus on developing a network with AWS services for an organization (as per their requirements manually). Other than that, we plan on an automatic service for future work so that organizations and business owners can quickly deploy their web server, streaming server, etc. with proper data security and network segmentation.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -60,6 +60,7 @@ This project uses the following license:
 
 ## Project status
 - [ ] This is a complete project.
-- [x] This is an incomplete project.
+- [x] This project is on hold.
+- [ ] This is an incomplete project.
 
 # Let's go! Have some coding! 🙂
