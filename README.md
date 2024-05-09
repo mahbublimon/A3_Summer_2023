@@ -28,7 +28,7 @@ A highly available, scalable, and secure web hosting environment is established 
 
 ## Report
 - [Project Proposal](Project_Proposal.pdf)
-- [Conference Paper]()
+- [Conference Paper](https://ieeexplore.ieee.org/abstract/document/10441592)
 
 ## Contribution
 To contribute to <A3_Summer_2023>, follow these steps:
