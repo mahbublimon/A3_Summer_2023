@@ -1,6 +1,6 @@
-# Course Title: Cloud Computing | Course Code: CSE472/ CSC472 
-## Group: A3 (Summer 2023)
-## Secure Cloud Network Architecture for Multi-Tier Application <br/>
+# Secure Cloud Network Architecture for Multi-Tier Application
+## Course Title: Cloud Computing | Course Code: CSE472/ CSC472 
+## Group: A3 (Summer 2023) <br/>
 
 ## Project Overview
 In today's digital era, businesses increasingly rely on cloud-based solutions to host their applications and services. However, maintaining a robust network architecture and ensuring the data security of these cloud-based multi-tier applications remains a significant challenge. This project proposes to provide services as a cloud service provider in Bangladesh. In this project, we will focus on developing a network with AWS services for an organization (as per their requirements manually). Other than that, we plan on an automatic service for future work so that organizations and business owners can quickly deploy their web server, streaming server, etc. with proper data security and network segmentation.
@@ -43,15 +43,11 @@ Thanks to the following people who have contributed to this project:
 * > https://github.com/mahbublimon
 * > https://github.com/rudritarahman
 * > https://github.com/Protik-Hasan
-* > https://github.com/Shatabde
-* > https://github.com/sufi-an
 
 ## Contact 
 * > Kazi Mahbub Morshed Limon (2231316@iub.edu.bd)
 * > Rudrita Rahman (2021059@iub.edu.bd)
 * > MD. Protik Hasan (2022133@iub.edu.bd)
-* > Shatabde Debnath (2020552@iub.edu.bd)
-* > MD Abu Sauri Sufian (1930839@iub.edu.bd)
 
 ## License
 This project uses the following license:
